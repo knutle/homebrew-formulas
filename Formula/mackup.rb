@@ -6,7 +6,7 @@ class Mackup < Formula
   url "https://github.com/knutle/mackup/releases/download/0.8.41-dev/mackup-0.8.41.dev0.tar.gz"
   sha256 "0fa4164a61f467aa5b99658dbbe02d7b776d040febb47ad7c9d68a29da37eb87"
   license "GPL-3.0-or-later"
-  revision 1
+  revision 2
   head "https://github.com/knutle/mackup.git", branch: "main"
 
   depends_on "python@3.12"
