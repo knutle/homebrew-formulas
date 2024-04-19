@@ -3,11 +3,10 @@ class Mackup < Formula
 
   desc "Forked for personal use - Keep your Mac's application settings in sync"
   homepage "https://github.com/knutle/mackup"
-  url "https://github.com/knutle/mackup/releases/download/0.8.41-dev/mackup-0.8.41.dev0.tar.gz"
-  sha256 "0fa4164a61f467aa5b99658dbbe02d7b776d040febb47ad7c9d68a29da37eb87"
+  url "https://github.com/knutle/mackup/releases/download/0.8.41-dev1/mackup-0.8.41.dev1.tar.gz"
+  sha256 "1e0d34125dc244943dce88499df42d4951437e5489cfc56f55f34f0951823396"
   license "GPL-3.0-or-later"
-  revision 2
-  head "https://github.com/knutle/mackup.git", branch: "main"
+  revision 3
 
   depends_on "python@3.12"
 
